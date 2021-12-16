@@ -1,0 +1,53 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url("https://cdn.discordapp.com/attachments/910156261063024650/921105188352294962/EZ_JINISH.jpg")
+}
+.logo{
+text-align: center;
+color: #8000ff;
+font-family: "Sector 034";
+}
+.text{
+position: relative;
+left: 335px;
+top: 80px;
+background: transparent;
+color: azure;
+height: 30px;
+width: 600px;
+
+}
+.lbl1{
+color: blueviolet;
+position: relative;
+left: 615px;
+top: 55px;
+font-family: "sans-serif";
+}
+.psword{
+position: relative;
+right: 346px;
+top: 160px;
+background: transparent;
+color: azure;
+height: 30px;
+width: 600px;
+}
+.lbl2{
+color: blueviolet;
+position: relative;
+right: 55px; 
+top: 120px;
+font-family: "sans-serif"
+}
+.btn{
+position: relative;
+display: box;
+padding: 16px 300px;
+top: 200px;
+left: 365px; 
+background: #8000ff;
+border: 1px solid #8000ff;
+border-radius: 15px;
+}
